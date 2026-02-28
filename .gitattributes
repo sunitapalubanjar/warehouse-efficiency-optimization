@@ -1,0 +1,3 @@
+scripts/**/*.sql linguist-language=SQL
+scripts/** linguist-vendored=false
+*.sql linguist-detectable=true
