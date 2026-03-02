@@ -2,6 +2,7 @@
 data/
 *.csv
 *.xlsx
+images/icons/
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
