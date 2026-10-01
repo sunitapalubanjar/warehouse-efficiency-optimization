@@ -2,6 +2,7 @@
 data/
 *.csv
 *.xlsx
+*.docx
 images/icons/
 
 # Jupyter checkpoints
