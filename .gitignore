@@ -1,5 +1,6 @@
 # Data files
 data/
+docs/
 *.csv
 *.xlsx
 *.docx
